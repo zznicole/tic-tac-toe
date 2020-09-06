@@ -1,4 +1,4 @@
-Tic-tac-toe, is a small game which I built to learn and practice React.js
+Tic-tac-toe, is a small game which I coded along to learn and practice React.js
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
